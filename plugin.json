@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
+    "name": "Cheshire Cat Resumé Builder",
     "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "description": "Build professional resumes in seconds with Cheshire Cat Resumé Builder.",
+    "author_name": "Luca Gobbi",
+    "author_url": "https://github.com/lucagobbi",
+    "plugin_url": "https://github.com/lucagobbi/ccat-resume-builder",
+    "tags": "cat, resume, builder, cv",
+    "thumb": "https://raw.githubusercontent.com/my_repo_path/cheshire_cat_resume_builder.png"
 }
